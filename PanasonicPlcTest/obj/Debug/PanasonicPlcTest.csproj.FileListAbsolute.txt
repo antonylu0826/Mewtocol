@@ -1,0 +1,11 @@
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.csproj.AssemblyReference.cache
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.Properties.Resources.resources
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.csproj.GenerateResource.cache
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.csproj.CoreCompileInputs.cache
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\bin\Debug\PanasonicPlcTest.exe.config
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\bin\Debug\PanasonicPlcTest.exe
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\bin\Debug\PanasonicPlcTest.pdb
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.exe
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.pdb
+C:\Users\anthony.MAXECHO\Desktop\PanasonicPlcTest\PanasonicPlcTest\obj\Debug\PanasonicPlcTest.FrmMewtocol.resources

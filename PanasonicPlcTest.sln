@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanasonicPlcTest", "PanasonicPlcTest\PanasonicPlcTest.csproj", "{2F95D78B-0936-4BDE-ADBC-D012FC5CB31C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShot", "ScreenShot", "{18D59AE4-342F-4449-9EF0-D781A43A7FD4}"
+	ProjectSection(SolutionItems) = preProject
+		ScreenShot\Snap32.png = ScreenShot\Snap32.png
+		ScreenShot\Snap34.png = ScreenShot\Snap34.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{98F4031D-FF94-403D-ADC7-EAEBCF8870E0}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\ARCT1F327E-2.pdf = Documents\ARCT1F327E-2.pdf
+		Documents\fp0h_ctrl_users_eip_c.pdf = Documents\fp0h_ctrl_users_eip_c.pdf
+		Documents\fp0h_ctrl_users_et_c.pdf = Documents\fp0h_ctrl_users_et_c.pdf
+		Documents\mn_all_plcs_mewtocol_user_pidsx_en.pdf = Documents\mn_all_plcs_mewtocol_user_pidsx_en.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F95D78B-0936-4BDE-ADBC-D012FC5CB31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F95D78B-0936-4BDE-ADBC-D012FC5CB31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F95D78B-0936-4BDE-ADBC-D012FC5CB31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F95D78B-0936-4BDE-ADBC-D012FC5CB31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E9D087-CED3-4114-9A7B-7ED93D46FF10}
+	EndGlobalSection
+EndGlobal
